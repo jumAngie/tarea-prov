@@ -1,0 +1,9 @@
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\bin\Debug\netcoreapp3.1\Proveedores.Entities.deps.json
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\bin\Debug\netcoreapp3.1\Proveedores.Entities.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\bin\Debug\netcoreapp3.1\Proveedores.Entities.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.AssemblyInfoInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.AssemblyInfo.cs
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.csproj.CoreCompileInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.Entities\obj\Debug\netcoreapp3.1\Proveedores.Entities.pdb

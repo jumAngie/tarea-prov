@@ -1,0 +1,70 @@
+﻿@model Proveedores.Entities.Entities.tbProveedores
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h1>Edit</h1>
+    </div>
+    <div class="card-body">
+        <h4>Proveedores</h4>
+        <hr />
+        <form asp-action="Edit">
+            <div class="row">
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="prov_ID" />
+                    <div class="form-group">
+                        <label asp-for="prov_Empresa" class="control-label">Nombre de la Empresa</label>
+                        <input asp-for="prov_Empresa" class="form-control" />
+                        <span asp-validation-for="prov_Empresa" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="prov_NombreContacto" class="control-label">Nombre del Contacto</label>
+                        <input asp-for="prov_NombreContacto" class="form-control" />
+                        <span asp-validation-for="prov_NombreContacto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="prov_TelefonoContacto" class="control-label">Telefono del Contacto</label>
+                        <input asp-for="prov_TelefonoContacto" class="form-control" />
+                        <span asp-validation-for="prov_TelefonoContacto" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="prov_DireccionExacta" class="control-label">Direccion Exacta del Contacto</label>
+                        <input asp-for="prov_DireccionExacta" class="form-control" />
+                        <span asp-validation-for="prov_DireccionExacta" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="prov_DireccionExactaEmpresa" class="control-label">Direccion de la Empresa</label>
+                        <input asp-for="prov_DireccionExactaEmpresa" class="form-control" />
+                        <span asp-validation-for="prov_DireccionExactaEmpresa" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="prov_SexoContacto" class="control-label">Sexo del Contacto</label>
+                        <br />
+                        <div class="row">
+                            <div class="col-sm-1"></div>
+                            <label>F</label>
+                            <input type="radio" value="F" asp-for="prov_SexoContacto" class="form-check-inline" />
+                            <label>M</label>
+                            <input type="radio" value="M" asp-for="prov_SexoContacto" class="form-check-inline" />
+                        </div>
+                        <span asp-validation-for="prov_SexoContacto" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                <a class="btn btn-dark" asp-action="Index">Volver</a>
+            </div>
+        </form>
+        </div>
+
+    </div>
+

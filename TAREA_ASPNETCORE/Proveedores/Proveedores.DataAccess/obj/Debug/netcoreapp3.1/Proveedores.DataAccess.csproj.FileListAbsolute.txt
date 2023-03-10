@@ -1,0 +1,13 @@
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\bin\Debug\netcoreapp3.1\Proveedores.DataAccess.deps.json
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\bin\Debug\netcoreapp3.1\Proveedores.DataAccess.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\bin\Debug\netcoreapp3.1\Proveedores.DataAccess.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\bin\Debug\netcoreapp3.1\Proveedores.Entities.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\bin\Debug\netcoreapp3.1\Proveedores.Entities.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.csproj.AssemblyReference.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.AssemblyInfoInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.AssemblyInfo.cs
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.csproj.CoreCompileInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.csproj.CopyComplete
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.DataAccess\obj\Debug\netcoreapp3.1\Proveedores.DataAccess.pdb

@@ -1,0 +1,15 @@
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.BusinessLogic.deps.json
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.BusinessLogic.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.BusinessLogic.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.DataAccess.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.Entities.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.DataAccess.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\bin\Debug\netcoreapp3.1\Proveedores.Entities.pdb
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.csproj.AssemblyReference.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.AssemblyInfoInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.AssemblyInfo.cs
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.csproj.CopyComplete
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.dll
+E:\2023\TAREA_ASPNETCORE\Proveedores\Proveedores.BusinessLogic\obj\Debug\netcoreapp3.1\Proveedores.BusinessLogic.pdb

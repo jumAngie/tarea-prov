@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Proveedores.WebUI.Models.ProveedoresViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <div class="card-header">
+        <div class="text-center">
+            <h1><strong>Index</strong></h1>
+
+            <p>
+                <a class="btn btn-lg btn-primary" asp-action="Create">Nuevo</a>
+            </p>
+        </div>
+        <div class="card-body">
+
+            <table class="table table-responsive-md">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_Empresa)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_NombreContacto)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_TelefonoContacto)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_DireccionExacta)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_DireccionExactaEmpresa)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.prov_SexoContacto)
+                        </th>
+                        <th><h5>Acciones</h5></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_Empresa)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_NombreContacto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_TelefonoContacto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_DireccionExacta)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_DireccionExactaEmpresa)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prov_SexoContacto)
+                            </td>
+                            <td>
+                                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.prov_ID">Editar</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
